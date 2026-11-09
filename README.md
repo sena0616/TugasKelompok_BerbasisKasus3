@@ -6,9 +6,9 @@ Tugas kelompok mata kuliah Inteligensi Buatan (Rule Based System), Program Studi
 
 | Nama | NIM |
 |---|---|
-| [Sena Permatasari] | [124140018] |
-| [Wulandari Lubis] | [124140066] |
-| [Sere sri Rezeki Sinaga] | [124140150] |
+| Sena Permatasari | 124140018 |
+| Wulandari Lubis | 124140066 |
+| Sere sri Rezeki Sinaga | 124140150 |
 
 Kelompok: [Rx]
 
